@@ -1,0 +1,25 @@
+# Private credentials
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Execution logs
+logs/
+
+# Generated Excel reports
+reports/*.xlsx
+
+
+venv/
+
+*.pyc
+.idea/
+
+market_data.xlsx
+top_20_market_data.xlsx
+temp.py
